@@ -31,7 +31,7 @@
 
 ##
 <div>
-  <a href="https://github.com/LordWalace">
+  <a href="https://github.com/Paulo1302">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo1302&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo1302&layout=compact&&theme=tokyonight"/>
 </div>
@@ -39,8 +39,8 @@
 ##
 ### Contatos:
 <div align="center"> 
+  <a href="https://www.instagram.com/paulo_grcs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <!--
-  <a href="Linkaqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "linkemailaqui"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="Linkaqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   --->
