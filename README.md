@@ -9,7 +9,7 @@
 ### Ferramentas e Tecnologias
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" align="left" width="40px" style="padding-right:10px;"/> 
-<!--<img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/verilog.png"align="left" width="40px" style="padding-right:10px;"/>
+<img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/verilog.png"align="left" width="40px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="left" width="40px" style="padding-right:10px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="left" width="40px" style="padding-right:10px;"/> 
 <!--
