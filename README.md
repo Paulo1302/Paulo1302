@@ -1,6 +1,6 @@
  Olá, me chamo Paulo Gabriel!
 
-## Bem vindo ao meu perfil GitHub 👋 (Em desenvolvimento)
+## Bem vindo ao meu perfil GitHub 👋
 
 - 🧑‍💻 Desenvolvedor de Software
 - 🌐 Web Developer Jr
@@ -8,11 +8,12 @@
 
 ### Ferramentas e Tecnologias
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" align="left" width="40px" style="padding-right:10px;"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/java/java-original.svg" align="left" width="40px" style="padding-right:10px;"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/go/go-original-wordmark.svg" align="left" width="40px" style="padding-right:10px;"/> 
 <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/verilog.png"align="left" width="40px" style="padding-right:10px;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" align="left" width="40px" style="padding-right:10px;"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="left" width="40px" style="padding-right:10px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="left" width="40px" style="padding-right:10px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" align="left" width="40px" style="padding-right:10px;"/> 
 <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" align="left" width="40px" style="padding-right:10px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" align="left" width="40px" style="padding-right:10px;"/> 
@@ -21,8 +22,8 @@
 --> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="left" width="40px" style="padding-right:10px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="left" width="40px" style="padding-right:10px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="left" width="40px" style="padding-right:10px;"/>
 <!--
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="left" width="40px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" align="left" width="40px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="left" width="40px" style="padding-right:10px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="left" width="40px" style="padding-right:10px;"/>
